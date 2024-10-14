@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi there<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FA573A&size=24&lines=Hey!+I+am+a+senior+Full+Stack+Developer;With+8+++years+of+experience+in+mobile+and+web+development+.+.+.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FA573A&size=30&lines=Hey!+I+am+a+senior+Full+Stack+Developer;With+8+++years+of+experience+in+mobile+and+web+development+.+.+.;)](https://git.io/typing-svg)
   
 
 </h1>
@@ -15,11 +15,11 @@ Creating process improvements<br>
 Instituting new technologies<br>
 Writing maintainable clear/high-quality code<br>
 Ensuring code is scalable and responsive<br>
-Please consider following highlights<br>
+Please consider the following highlights<br>
 
 🥇 Successfully developed 80+ Web applications using React, Vue, Angular, Express.js, node.js, MongoDB, WordPress, Python, Flask, Django, Laravel, CI, MySQL.<br>
-🥇 Developed 50+ android applications using Android Studio, Kotlin, Java.<br>
-🥇 Developed 20+ iOS applications using XCode, Swift, ObjectiveC, SwiftUI, UIKit, Combine, Core-Animation/Data, GCD.<br>
+🥇 Developed 50+ Android applications using Android Studio, Kotlin, and Java.<br>
+🥇 Developed 20+ iOS applications using XCode, Swift, Objective-C, SwiftUI, UIKit, Combine, Core-Animation/Data, GCD.<br>
 🥇 Great skills in Payment gateway integration(apple/google pay, PayPal, stripe...), SNS login/sharing, Unit/UI Testing, PHP, Node.js, Nest, Express, Monghdb/PostgreSQL/MySQL, JS/TS, Angular, React/Redux/Redux Saga/React hook, Agile/Kanban/Scrum methodologies, SDLC, SOLID/UniDirectional Software Design, MVC/MVVM architecture, RestfulAPI, GraphQL, Jira/Atlassian, CI/CD.
 
 
