@@ -3,7 +3,7 @@
 
 <h1 align="center" width="100px">Hi there<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FA573A&size=24&lines=Hey!+I+am+a+senior+Full+Stack+Developer;With++8+years+of+experience+in+mobile+and+web+development+.+.+.;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=FA573A&size=16&lines=Hey!+I+am+a+senior+Full+Stack+Developer;With++8+years+of+experience+in+mobile+and+web+development+.+.+.;)](https://git.io/typing-svg)
   
 
 </h1>
