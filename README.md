@@ -40,7 +40,7 @@ Please consider the following highlights<be>
 
 <p align="centre">
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GalaxyDev24&theme=dark&background=000000&from=2017)](https://git.io/streak-stats)  </p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GalaxyDev24&theme=dark&background=000000&starting_year=2017)](https://git.io/streak-stats)  </p>
 [![GalaxyDev24's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GalaxyDev24&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
