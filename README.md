@@ -41,8 +41,7 @@ Please consider the following highlights<be>
 <p align="centre">
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=GalaxyDev24&theme=dark&background=000000)](https://git.io/streak-stats)  </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GalaxyDev24&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kshitij978&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GalaxyDev24's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GalaxyDev24&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ### 🛠 &nbsp;Tech Stack
