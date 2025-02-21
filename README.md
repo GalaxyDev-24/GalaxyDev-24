@@ -10,7 +10,7 @@
 <h1 align="center" width="100px">Hi, there <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px"><br /> I am a Senior Software Engineer & Problem-Solving Expert <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=25&pause=1000&color=FA573A&center=true&vCenter=true&multiline=true&width=680&height=100&lines=I+am+a+senior+full+stack+developer;with+8%2B+years+of+experience+in+mobile+and+web+development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=25&pause=1000&color=FA573A&center=true&vCenter=true&multiline=true&width=700&height=100&lines=I+am+a+senior+full+stack+developer;with+8%2B+years+of+experience+in+mobile+and+web+development)](https://git.io/typing-svg)
   
 
 </h1>
