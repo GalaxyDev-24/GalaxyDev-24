@@ -2,7 +2,6 @@
 <!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/> -->
 </div>
 <div align="center">
-  <img src="https://github.com/Kshitij978/Kshitij978/blob/main/lofiboy.webp" width="600" height="300"/>
 </div>
 
 <p align="center"><img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/header.png"></p>
