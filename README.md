@@ -17,7 +17,7 @@
 
 ⭐ Turning Complex Challenges into Seamless Solutions – Where Innovation Meets Excellence. ⭐
 
-🚀With 10+ years of experience in software engineering, I specialize in developing robust, scalable, and high-performance web and mobile applications. From backend architecture and API development to front-end optimization and end-to-end system design, I ensure seamless integration and top-tier functionality. A problem-solving expert, I excel at transforming complex technical challenges into innovative solutions that drive project success and enhance system performance.🚀
+🚀With 8+ years of experience in software engineering, I specialize in developing robust, scalable, and high-performance web and mobile applications. From backend architecture and API development to front-end optimization and end-to-end system design, I ensure seamless integration and top-tier functionality. A problem-solving expert, I excel at transforming complex technical challenges into innovative solutions that drive project success and enhance system performance.🚀
 
 <strong> 🔹 Tech Stack Expertise:</strong>
 
