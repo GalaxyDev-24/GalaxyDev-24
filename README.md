@@ -15,9 +15,9 @@
 </h1>
 
 
-🚀 Turning Complex Challenges into Seamless Solutions – Where Innovation Meets Excellence. 🚀
+⭐ Turning Complex Challenges into Seamless Solutions – Where Innovation Meets Excellence. ⭐
 
-With 6+ years of experience in software engineering, I specialize in developing robust, scalable, and high-performance web and mobile applications. From backend architecture and API development to front-end optimization and end-to-end system design, I ensure seamless integration and top-tier functionality. A problem-solving expert, I excel at transforming complex technical challenges into innovative solutions that drive project success and enhance system performance.
+🚀With 10+ years of experience in software engineering, I specialize in developing robust, scalable, and high-performance web and mobile applications. From backend architecture and API development to front-end optimization and end-to-end system design, I ensure seamless integration and top-tier functionality. A problem-solving expert, I excel at transforming complex technical challenges into innovative solutions that drive project success and enhance system performance.🚀
 
 <strong> 🔹 Tech Stack Expertise:</strong>
 
@@ -40,7 +40,7 @@ With 6+ years of experience in software engineering, I specialize in developing 
 ✔ AI & Machine Learning Solutions: Implementing AI-driven features, chatbots, automation, and predictive analytics to enhance user experience and decision-making.<br>
 ✔ Blockchain & Web3 Development: Expertise in smart contracts, decentralized applications(DApps), NFT marketplaces, DeFi protocols, cross-chain integrations, and blockchain security audits.<be>
 
-Specialize In These Industries: <br>
+🥇Specialize In These Industries:🥇 <br>
   🏥 Healthcare <br>
   🛒 E-Commerce <br>
   💻 Software Development <br>
