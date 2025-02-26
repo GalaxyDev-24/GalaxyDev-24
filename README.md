@@ -148,11 +148,11 @@ You can find me on the following social media platforms or send me an email:
 <!--* ✉️ [olexandr00000097@gmail.com](mailto:olexandr00000097@gmail.com)-->
 
 
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/galaxydev-24">
     <img src="https://github-readme-stats.vercel.app/api?username=galaxydev-24&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=solarized-dark&hide_border=true&text_color=869396&text_bold=false&ring_color=ffff00" width="605">
   </a>
-</p>
+</p>-->
 
 <p align="center">
   <a href="https://github.com/galaxydev-24">
