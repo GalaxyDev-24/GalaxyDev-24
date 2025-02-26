@@ -149,23 +149,29 @@ You can find me on the following social media platforms or send me an email:
 
 
 <p align="center">
-  <a href="https://github.com/dimkagithub">
+  <a href="https://github.com/galaxydev-24">
+    <img src="https://github-readme-stats.vercel.app/api?username=galaxydev-24&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=solarized-dark&hide_border=true&text_color=869396&text_bold=false&ring_color=ffff00" width="605">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/galaxydev-24">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GalaxyDev-24&theme=moonlight" width="605">
   </a>
 </p>
 
 <p align="center">
-  <a href= "https://github.com/dimkagithub">
+  <a href= "https://github.com/galaxydev-24">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GalaxyDev-24&theme=moonlight" width="300">
-  <a href= "https://github.com/dimkagithub">
+  <a href= "https://github.com/galaxydev-24">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GalaxyDev-24&theme=moonlight&utcOffset=8" width="300">
   </a>
 </p>
 
 <p align="center">
-  <a href= "https://github.com/dimkagithub">
+  <a href= "https://github.com/galaxydev-24">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GalaxyDev-24&theme=moonlight" width="300">
-  <a href= "https://github.com/dimkagithub">
+  <a href= "https://github.com/galaxydev-24">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GalaxyDev-24&theme=moonlight" width="300">
   </a>
 </p>
