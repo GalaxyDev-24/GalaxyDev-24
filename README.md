@@ -146,3 +146,26 @@ You can find me on the following social media platforms or send me an email:
 <!-- * 🗣 [Twitter](https://twitter.com/dave_bitter) -->
 <!-- * 📷 [Instagram](https://www.instagram.com/davebitter) -->
 <!--* ✉️ [olexandr00000097@gmail.com](mailto:olexandr00000097@gmail.com)-->
+
+
+<p align="center">
+  <a href="https://github.com/dimkagithub">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GalaxyDev-24&theme=moonlight" width="605">
+  </a>
+</p>
+
+<p align="center">
+  <a href= "https://github.com/dimkagithub">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=GalaxyDev-24&theme=moonlight" width="300">
+  <a href= "https://github.com/dimkagithub">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GalaxyDev-24&theme=moonlight&utcOffset=8" width="300">
+  </a>
+</p>
+
+<p align="center">
+  <a href= "https://github.com/dimkagithub">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GalaxyDev-24&theme=moonlight" width="300">
+  <a href= "https://github.com/dimkagithub">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GalaxyDev-24&theme=moonlight" width="300">
+  </a>
+</p>
