@@ -134,7 +134,7 @@ Please consider the following highlights<be>
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma" alt="ryo-ma" /></a> </p>
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma" alt="ryo-ma" /></a> </p>
 
 <!--### :link: &nbsp;Connect with me
 <p align="center">
@@ -154,7 +154,7 @@ You can find me on the following social media platforms or send me an email:
   </a>
 </p>-->
 
-<p align="center">
+<!--<p align="center">
   <a href="https://github.com/galaxydev-24">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GalaxyDev-24&theme=moonlight" width="605">
   </a>
@@ -174,4 +174,4 @@ You can find me on the following social media platforms or send me an email:
   <a href= "https://github.com/galaxydev-24">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GalaxyDev-24&theme=moonlight" width="300">
   </a>
-</p>
+</p>-->
